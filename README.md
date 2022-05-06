@@ -1,7 +1,7 @@
 # SPD -TRABAJO PRACTIVO N°1
 ## CRONOMETRO BINARIO
-###### UTN FRA
-
+###### UTN FRA 2022
+###### DIVISION 1F
 ###### INTEGRANTES
 - Castello Thiago
 - Forni Gonzalo
