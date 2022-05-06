@@ -2,15 +2,11 @@
 # CRONOMETRO BINARIO
 ###### UTN FRA
 
-
 ###### INTEGRANTES
 - Castello Thiago
 - Forni Gonzalo
 - Gatti Ignacio Pablo
 - Heredia Facundo
-
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
 
 ###### LINK DE ARDUINO
 
