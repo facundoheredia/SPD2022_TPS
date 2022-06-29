@@ -29,5 +29,5 @@ https://www.tinkercad.com/things/5nyq7RFAXZi
 ###### LINK DE ARDUINO
 
 ```sh
-https://www.tinkercad.com/things/dFiKXliZZEJ
+https://www.tinkercad.com/things/0xB2gM6R9Um
 ```
